@@ -2,7 +2,7 @@
 - 📚 Sou iniciante e estou aprendendo HTML5 e CSS3. Futuramente busco ser um full stack.
 - 💻 Meu primeiro projeto está sendo desenvolver um site simples com uns amigos.
 - 📭 Pode me encontrar pelo meu instagram @pedroms.rt ou pelo meu email pedromoesia@gmail.com
-- ⚡ Fato engraçado: Sempre tive medo de programar por ser ruim em matemática 😅
+- ⚡ Fato engraçado: Sempre tive medo de programar por não ser bom em matemática 😅
 
 <div align="center">
   <a href="https://github.com/pedromoesia">
