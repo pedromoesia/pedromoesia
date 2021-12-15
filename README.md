@@ -5,11 +5,6 @@
 - ⚡ Fato engraçado: Sempre tive medo de programar por não ser bom em matemática 😅
 ##
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/88055021/145482275-5ba9ef44-1446-4ff4-bda3-43c876f05622.jpg" width="250px" />
-</div>
-
-##
 
 
 <div align="center">
