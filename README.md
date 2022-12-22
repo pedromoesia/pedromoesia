@@ -1,5 +1,5 @@
 ### Opa! Eu sou o Pedro Moésia, estudante e curioso pelas tecnologias! 
-- 📚 Sou iniciante e estou aprendendo HTML5 e CSS3. Futuramente busco ser um full stack.
+- 📚 Sou iniciante e estou aprendendo HTML5 e CSS3. Treinando pra ser um bom front-end.
 - 💻 Meu primeiro projeto está sendo desenvolver um site simples com uns amigos.
 - 📭 Pode me encontrar pelo meu instagram @pedroms.rt ou pelo meu email pedromoesia@gmail.com
 - ⚡ Fato engraçado: Sempre tive medo de programar por não ser bom em matemática 😅
