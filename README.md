@@ -1,5 +1,3 @@
-Pedro Moésia - Estudante de front-end e novato no mundo da programação.
-🔗@pedroms.rt 
 📩pedromoesia@gmail.com
 
 
