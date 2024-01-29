@@ -1,9 +1,6 @@
-### Opa! Eu sou o Pedro Moésia, estudante e curioso pelas tecnologias! 
-- 📚 Sou iniciante e estou treinando pra ser um bom front-end.
-- 💻 Meu primeiro projeto está sendo desenvolver um site simples com uns amigos.
-- 📭 Pode me encontrar pelo meu instagram @pedroms.rt ou pelo meu email pedromoesia@gmail.com
-- ⚡ Fato engraçado: Sempre tive medo de programar por não ser bom em matemática 😅
-##
+Pedro Moésia - Estudante de front-end e novato no mundo da programação.
+🔗@pedroms.rt 
+📩pedromoesia@gmail.com
 
 
 
